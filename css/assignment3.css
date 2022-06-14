@@ -1,0 +1,18 @@
+ img {
+     height: 300px;
+     width: 400px;
+ }
+
+ #full_name,
+ #province {
+     color: blue;
+     font-size: larger;
+ }
+
+ .location {
+     background-color: brown;
+ }
+
+ .sub_location {
+     color: bisque;
+ }
